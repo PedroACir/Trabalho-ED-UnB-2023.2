@@ -4,9 +4,12 @@
 O intuíto do trabalho era aplicar uma das estruturas de dados estudadas durante o semestre (2023.2) da Universidade de Brasília (UnB), no qual alunos dos cursos de Computação (Licenciatura) e Ciências da Computação (Bacharelado) fizeram parte da turma. Portanto, fizemos um Simulador de impressões aplicando a estrutura de uma lista duplamente encadeada na linguagem de programação Python.
 <h2>Autores</h2>
 
-* Pedro Augusto
-* Vitor Ivan
-* Jorge Lucas
+- `Pedro Augusto`: https://github.com/PedroACir/
+
+- `Vitor Ivan`: https://github.com/VitorIvan
+
+- `Jorge Lucas`: https://github.com/JorgeLLucas
+
 <h2>Contexto de Aplicação</h2>
 Para realizar a aplicação da estrutura, decidimos fazer esse simulador de impressões dentro de um ambiente empresarial, onde determinada empresa possuí 3 (três) cargos de funcionários e cada um deles possuí determinado nível de prioridade na fila de impressão, sendo quanto maior o número (de 1 a 3), maior a prioridade.
 <h3>Cargos e prioridade</h3>
@@ -31,7 +34,7 @@ A estrutura de dados utilizada foi uma lista duplamente encadeada, onde cada nó
 
 - `Passo 1`: Com a janela do programa aberta, clique em **"Selecionar arquivo"**
 - `Passo 2`: A janela para selecionar um arquivo do próprio Windows será aberta
-- `Passo 3`: Selecione um arquivo**.txt**
+- `Passo 3`: Selecione um arquivo **.txt**
 - `Passo 4`: Defina um nível de prioridade para a impressão do arquivo conforme a legenda
 - `Passo 5`: Basta clicar em **"Adicionar"**
 - `Passo 6`: Repita os passos anteriores até selecionar todos os arquivos desejados para simular a impressã
