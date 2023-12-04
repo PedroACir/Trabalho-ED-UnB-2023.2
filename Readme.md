@@ -23,6 +23,7 @@ A estrutura de dados utilizada foi uma lista duplamente encadeada, onde cada nó
 * Remoção
 * Travessia/ Impressão
 <h2>Instruções de Execução</h2>
+
 - `Passo 1`: Executar o código python normalmente
 - `Passo 2`: Após a execução do código, uma interface irá se abrir em modo janela.
 <h2>Instruções de Uso</h2>
@@ -52,9 +53,9 @@ A estrutura de dados utilizada foi uma lista duplamente encadeada, onde cada nó
 <h2>Referências</h2>
 
 -`Documentação Python`: https://docs.python.org/3/
+
 -`Documentação tkinter`: https://docs.python.org/3/library/tkinter.html
+
 -`NeuralNine`: https://www.youtube.com/@NeuralNine
--`João Ribeiro`: https://www.youtube.com/@JLDRPT 
 
-
-
+-`João Ribeiro`: https://www.youtube.com/@JLDRPT
