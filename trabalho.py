@@ -2,6 +2,7 @@ from time import sleep
 import tkinter as tk
 from tkinter import messagebox
 from tkinter import filedialog
+
 class Noh:
     def __init__(self, documento, prioridade, nome_arquivo):
         # Criação de um nó com as informações do documento, prioridade e nome do arquivo.
